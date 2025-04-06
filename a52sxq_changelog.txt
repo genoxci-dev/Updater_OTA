@@ -1,1 +1,54 @@
+DERPFEST 15.1 Official | Samsung Galaxy A52s 5G
+Maintainer: just_inntime
 
+
+Latest Changelog:
+
+04-XX-2025 
+- External testing by: T1330, Mikolaj, nowawas, and 
+  NgocTramm
+
+- New ota branch with KernelSU Next + SuSFS
+- Reenabled GameSpace
+- Adjusted statusbar paddings to match camera
+- New torch implementation [4]
+- New refresh rate tile and per-app refresh rate [5]
+- New gamebar tile and gamebar overlay settings [5]
+- Readjusted fingerprint animation timings [6]
+- Reduced fingerprint border radius [6]
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [6] Kenway214
+    [2] Simon1511                [7] T1330
+    [3] Arslan140
+    [4] P.A.N.Z.
+    [5] DaviDev985
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous Changelogs:
+
+03-13-2025 Hotfix
+- External testing by: Witr and Mikolaj
+
+- Fixed heads-up notifications
+- Fixed hotspot functionality [4]
+
+03-09-2025
+- Bug: 
+  Notifications only compact or island
+
+- Merged March security patch
+- Introduced ViPER4AndroidFX
+- Introduced Island notifications
+- Introduced Ongoing action chip
+- Adjusted statusbar paddings
+- Fixed adaptive refresh rate
+- Fixed volume and brightness slider vibrations [5]
+
+Others:
+- Building knowledge and development support [1]
+- Tree sources [2]
+- a52sxq manifest [3]
