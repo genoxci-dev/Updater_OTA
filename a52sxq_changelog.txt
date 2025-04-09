@@ -11,11 +11,11 @@ Latest Changelog:
 - New ota branch with KernelSU Next + SuSFS
 - Reenabled GameSpace
 - Adjusted statusbar paddings to match camera
-- New torch implementation [4]
-- New refresh rate tile and per-app refresh rate [5]
-- New gamebar tile and gamebar overlay settings [5]
-- Readjusted fingerprint animation timings [6]
-- Reduced fingerprint border radius [6]
+- New torch implementation [5]
+- New refresh rate tile and per-app refresh rate [6]
+- New gamebar tile and gamebar overlay settings [6]
+- Readjusted fingerprint animation timings [7]
+- Reduced fingerprint border radius [7]
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -41,7 +41,7 @@ Previous Changelogs:
   Notifications only compact or island
 
 - Merged March security patch
-- Introduced ViPER4AndroidFX
+- Introduced ViPER4AndroidFX [1]
 - Introduced Island notifications
 - Introduced Ongoing action chip
 - Adjusted statusbar paddings
