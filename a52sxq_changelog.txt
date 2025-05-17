@@ -1,21 +1,18 @@
-DERPFEST 15.1 Official | Samsung Galaxy A52s 5G
+DERPFEST 15.2 Official | Samsung Galaxy A52s 5G
 Maintainer: just_inntime
 
 
 Latest Changelog:
 
-04-09-2025 
-- External testing by: T1330, Mikolaj, nowawas, and 
-  NgocTramm
+05-17-2025 
+- External testing by: nowawas
 
-- New ota branch with KernelSU Next + SuSFS
-- Reenabled GameSpace
-- Adjusted statusbar paddings to match camera
-- New torch implementation [5]
-- New refresh rate tile and per-app refresh rate [6]
-- New gamebar tile and gamebar overlay settings [6]
-- Readjusted fingerprint animation timings [7]
-- Reduced fingerprint border radius [7]
+- Merge QPR2 and May Security patches
+- DerpFest Customizations added to Settings main
+  page
+- Can be dirty flashed from QPR1
+- OTA and local update not usable for this release,
+  please flash manually using TWRP
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -29,6 +26,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+04-09-2025 
+- External testing by: T1330, Mikolaj, nowawas, and 
+  NgocTramm
+
+- New ota branch with KernelSU Next + SuSFS
+- Reenabled GameSpace
+- Adjusted statusbar paddings to match camera
+- New torch implementation [5]
+- New refresh rate tile and per-app refresh rate [6]
+- New gamebar tile and gamebar overlay settings [6]
+- Readjusted fingerprint animation timings [7]
+- Reduced fingerprint border radius [7]
 
 03-13-2025 Hotfix
 - External testing by: Witr and Mikolaj
