@@ -6,7 +6,7 @@ Latest Changelog:
 
 06-12-2025
 - Merge June security patch
-
+- KSUN + SuSFS updated
 - Introduced Compact progress indicator style 
 - Introduced Charging info QS tile
 - Refresh rate service now based from source
