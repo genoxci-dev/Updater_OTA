@@ -4,16 +4,17 @@ Maintainer: just_inntime
 
 Latest Changelog:
 
-05-17-2025 
-- External testing by: nowawas
+06-12-2025
+- Merge June security patch
 
-- Merge QPR2 and May Security patches
-- DerpFest Customizations added to Settings main
-  page
-- Can be dirty flashed from QPR1
+- Introduced Compact progress indicator style 
+- Introduced Charging info QS tile
+- Refresh rate service now based from source
+- Fixed LiveDisplay, High touch sensitivity, and
+  Touchscreen gestures functionality
+- Added support for latest bootloaders [2]
 - OTA and local update not usable for this release,
   please flash manually using TWRP
-
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   - Special thanks to the following:
@@ -26,6 +27,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+05-17-2025 
+- External testing by: nowawas
+
+- Merge QPR2 and May security patch
+- DerpFest Customizations added to Settings main
+  page
+- Can be dirty flashed from QPR1
+- OTA and local update not usable for this release,
+  please flash manually using TWRP
 
 04-09-2025 
 - External testing by: T1330, Mikolaj, nowawas, and 
