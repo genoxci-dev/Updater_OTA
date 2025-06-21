@@ -4,9 +4,36 @@ Maintainer: just_inntime
 
 Latest Changelog:
 
+06-22-2025
+- External testing by: ded
+
+- Rooted build release
+- KSUN 1.0.8, now with manual hooks
+- Dropped lineage health in preference of a
+  custom Charging Control, v3
+- Changed target node to ensure charging bypass 
+  works [8]
+- Introduced a camera overlay to reduce white
+  vignette when using front camera
+- Introduced k**box loading, will still need PIF
+- and more ..
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [6] Kenway214
+    [2] Simon1511                [7] T1330
+    [3] Arslan140                [8] Identifier
+    [4] P.A.N.Z.
+    [5] DaviDev985
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous Changelogs:
+
 06-12-2025
 - Merge June security patch
-- KSUN + SuSFS updated
+- KSUN 1.0.7 + SuSFS 1.5.5
 - Introduced Compact progress indicator style 
 - Introduced Charging info QS tile
 - Refresh rate service now based from source
@@ -15,18 +42,6 @@ Latest Changelog:
 - Added support for latest bootloaders [2]
 - OTA and local update not usable for this release,
   please flash manually using TWRP
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  - Special thanks to the following:
-    [1] P.A.N.Z. Core Team       [6] Kenway214
-    [2] Simon1511                [7] T1330
-    [3] Arslan140
-    [4] P.A.N.Z.
-    [5] DaviDev985
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-Previous Changelogs:
 
 05-17-2025 
 - External testing by: nowawas
