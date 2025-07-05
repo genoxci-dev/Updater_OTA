@@ -1,0 +1,31 @@
+VOLTAGEOS 16 Unofficial | Samsung Galaxy A52s 5G
+Maintainer: genoxci
+
+
+Latest Changelog:
+
+07-06-2025
+- June security patch
+- Initial unofficial release for VoltageOS
+- KernelSU Next v1.0.8
+- Note: Still missing some features from a15
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [6] Kenway214
+    [2] Simon1511                [7] T1330
+    [3] Arslan140                [8] Identifier
+    [4] P.A.N.Z.
+    [5] DaviDev985
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous Changelogs:
+
+(None)
+
+Others:
+- Building knowledge and development support [1]
+- Tree sources [2]
+- a52sxq manifest [3]
