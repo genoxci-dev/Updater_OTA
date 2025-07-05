@@ -8,14 +8,15 @@ Latest Changelog:
 - June security patch
 - Initial unofficial release for VoltageOS
 - KernelSU Next v1.0.8
+- Added extra features [4][6][7]
 - Note: Still missing some features from a15
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   - Special thanks to the following:
     [1] P.A.N.Z. Core Team       [6] Kenway214
-    [2] Simon1511                [7] T1330
-    [3] Arslan140                [8] Identifier
+    [2] Simon1511                [7] Identifier
+    [3] Arslan140              
     [4] P.A.N.Z.
     [5] DaviDev985
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
