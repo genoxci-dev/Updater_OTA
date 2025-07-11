@@ -4,6 +4,28 @@ Maintainer: just_inntime
 
 Latest Changelog:
 
+XX-XX-2025
+- External testing by: ded
+
+- Initial release for DerpFest 16
+- Dropped FlashControl and ViPER4AndroidFX
+- Rootless by default, root can be added back by
+  flashing .img via TWRP Install > Image [9]
+- Note: Still missing some features from a15
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [6] Kenway214
+    [2] Simon1511                [7] T1330
+    [3] Arslan140                [8] Identifier
+    [4] P.A.N.Z.                 [9] alex_gailt
+    [5] DaviDev985
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous Changelogs:
+
 06-22-2025
 - External testing by: ded
 
@@ -17,19 +39,6 @@ Latest Changelog:
   vignette when using front camera
 - Introduced k**box loading, will still need PIF
 - and more ..
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  - Special thanks to the following:
-    [1] P.A.N.Z. Core Team       [6] Kenway214
-    [2] Simon1511                [7] T1330
-    [3] Arslan140                [8] Identifier
-    [4] P.A.N.Z.
-    [5] DaviDev985
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-Previous Changelogs:
 
 06-12-2025
 - Merge June security patch
