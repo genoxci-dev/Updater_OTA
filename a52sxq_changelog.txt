@@ -5,7 +5,7 @@ Maintainer: just_inntime
 Latest Changelog:
 
 XX-XX-2025
-- External testing by: ded
+- External testing by:
 
 - Initial release for DerpFest 16
 - Dropped FlashControl and ViPER4AndroidFX
