@@ -1,17 +1,18 @@
 VOLTAGEOS 16 Unofficial | Samsung Galaxy A52s 5G
-Maintainer: genoxci
+Maintainer: Genoxci
 
 
 Latest Changelog:
 
-07-21-2025
-- Reintroduced fingerprint vibrations
-- Reintroduced app lock
-- Reintroduced more nav gestures
-- Dropped Rotation suggestions in favor of source
-  implementation
-- Rootless by default, root can be added back by
-  flashing .img via TWRP Install > Image [8]
+08-04-2025
+- External testing by: Victoria Freeman
+
+- Fingerprint enrollment should show properly now
+- Introduced FlashControl
+- New added functions in Powerhub
+- Rootless by default now, root can be added back 
+  by flashing .img (in support group) via TWRP 
+  Install > Image [8]
 - More source changes
 - Note: Still missing some features from a15
 
@@ -28,6 +29,18 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Previous Changelogs:
 
+07-21-2025
+- Reintroduced fingerprint vibrations
+- Reintroduced app lock
+- Reintroduced more nav gestures
+- Dropped Rotation suggestions in favor of source
+  implementation
+- Rootless by default now, root can be added back 
+  by flashing .img (in support group) via TWRP 
+  Install > Image [8]
+- More source changes
+- Note: Still missing some features from a15
+
 07-11-2025
 - External testing by: Victoria Freeman
 
@@ -35,8 +48,9 @@ Previous Changelogs:
   VoltageOS
 - Fingerprint fix
 - Fast charging control added
-- Rootless by default, root can be added back by
-  flashing .img via TWRP Install > Image [8]
+- Rootless by default now, root can be added back 
+  by flashing .img (in support group) via TWRP 
+  Install > Image [8]
 - More source changes
 - Note: Still missing some features from a15
 
