@@ -4,6 +4,28 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
+08-26-2025
+- August Security Patch
+- Added Dual-tone Shade Toggle
+- Added toggle for new status bar icons
+- Improved Keybox support
+- Added UDFPS customizations
+- Enabled AOD wallpaper on doze [9]
+- Added touch sampling tile [4,10-idea]
+- Adjusted rounded corner radius
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [6] Kenway214
+    [2] Simon1511                [7] Identifier
+    [3] Arslan140                [8] alex_gailt
+    [4] P.A.N.Z.                 [9] NeiKos4962
+    [5] DaviDev985               [10] NguyenPhong
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous Changelogs:
+
 08-04-2025
 - External testing by: Victoria Freeman
 
@@ -15,19 +37,6 @@ Latest Changelog:
   Install > Image [8]
 - More source changes
 - Note: Still missing some features from a15
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  - Special thanks to the following:
-    [1] P.A.N.Z. Core Team       [6] Kenway214
-    [2] Simon1511                [7] Identifier
-    [3] Arslan140                [8] alex_gailt
-    [4] P.A.N.Z.
-    [5] DaviDev985
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-Previous Changelogs:
 
 07-21-2025
 - Reintroduced fingerprint vibrations
