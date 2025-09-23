@@ -4,15 +4,14 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-08-26-2025
-- August Security Patch
-- Added Dual-tone Shade Toggle
-- Added toggle for new status bar icons
-- Improved Keybox support
-- Added UDFPS customizations
-- Enabled AOD wallpaper on doze [9]
-- Added touch sampling tile [4,10-idea]
-- Adjusted rounded corner radius
+09-23-2025
+- September Security Patch
+- Added recents and app drawer opacity 
+  customization
+- Allow locking tasks to recents
+- Added data usage cycles for QS footer
+- More source changes ...
+
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   - Special thanks to the following:
@@ -25,6 +24,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+08-26-2025
+- August Security Patch
+- Added Dual-tone Shade Toggle
+- Added toggle for new status bar icons
+- Improved Keybox support
+- Added UDFPS customizations
+- Enabled AOD wallpaper on doze [9]
+- Added touch sampling tile [4,10-idea]
+- Adjusted rounded corner radius
 
 08-04-2025
 - External testing by: Victoria Freeman
