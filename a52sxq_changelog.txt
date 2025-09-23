@@ -4,21 +4,22 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-08-21-2025
-- August Security Patch
-- Reintroduced PIF loading
-- A bunch of QS customizations
-- Switched FastCharge implementation
-- Enabled AOD wallpaper on doze [10]
-- Added touch sampling tile [4,11-idea]
-- Adjusted rounded corner radius
+09-XX-2025
+- September Security Patch
+- Migrated to common Samsung LiveDisplay and Touch
+  Features [12]
+- Added QS layout settings
+- Added data usage cycles for QS footer
+- Disabled AOD wallpaper on doze
+- More source changes ...
+
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   - Special thanks to the following:
     [1] P.A.N.Z. Core Team       [9] alex_gailt
     [2] Simon1511                [10] NeiKos4962
     [3] Arslan140                [11] NguyenPhong
-    [4] P.A.N.Z.                 
+    [4] P.A.N.Z.                 [12] Bruno Martins
     [5] DaviDev985               
     [6] Kenway214
     [7] T1330
@@ -27,6 +28,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+08-21-2025
+- August Security Patch
+- Reintroduced PIF loading
+- A bunch of QS customizations
+- Switched FastCharge implementation
+- Enabled AOD wallpaper on doze [10]
+- Added touch sampling tile [4,11-idea]
+- Adjusted rounded corner radius
 
 08-04-2025
 - External testing by: Mikolaj, qveezz, Patrick
