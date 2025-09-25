@@ -11,7 +11,7 @@ Latest Changelog:
 - Added QS layout settings
 - Added data usage cycles for QS footer
 - Added toggle for AOD wallpaper
-- Added toggle for camera cutout fill
+- Added toggle for camera cutout fill + QS tile
 - More source changes ...
 
 
