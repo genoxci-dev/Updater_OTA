@@ -8,6 +8,7 @@ Latest Changelog:
 - September Security Patch
 - Migrated to common Samsung LiveDisplay and Touch
   Features [12]
+- Improved blurs [13]
 - Added QS layout settings
 - Added data usage cycles for QS footer
 - Added toggle for AOD wallpaper
@@ -21,7 +22,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     [2] Simon1511                [10] NeiKos4962
     [3] Arslan140                [11] NguyenPhong
     [4] P.A.N.Z.                 [12] Bruno Martins
-    [5] DaviDev985               
+    [5] DaviDev985               [13] Doze-off
     [6] Kenway214
     [7] T1330
     [8] Identifier
