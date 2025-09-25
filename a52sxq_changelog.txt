@@ -10,7 +10,8 @@ Latest Changelog:
   Features [12]
 - Added QS layout settings
 - Added data usage cycles for QS footer
-- Disabled AOD wallpaper on doze
+- Added toggle for AOD wallpaper
+- Added toggle for camera cutout fill
 - More source changes ...
 
 
