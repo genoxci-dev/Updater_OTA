@@ -9,6 +9,7 @@ Latest Changelog:
 - Migrated to common Samsung LiveDisplay and Touch
   Features [12]
 - Improved blurs [13]
+- Revert to opaque notifications
 - Added QS layout settings
 - Added data usage cycles for QS footer
 - Added toggle for AOD wallpaper
