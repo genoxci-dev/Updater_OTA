@@ -10,6 +10,7 @@ Latest Changelog:
   Features [12]
 - Improved blurs [13]
 - Revert to opaque notifications
+- Added Dolby Atmos support
 - Added QS layout settings
 - Added data usage cycles for QS footer
 - Added toggle for AOD wallpaper
