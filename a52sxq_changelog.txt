@@ -4,7 +4,7 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-09-XX-2025
+09-30-2025
 - September Security Patch
 - Migrated to common Samsung LiveDisplay and Touch
   Features [12]
