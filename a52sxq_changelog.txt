@@ -4,17 +4,14 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-09-30-2025
-- September Security Patch
-- Migrated to common Samsung LiveDisplay and Touch
-  Features [12]
-- Improved blurs [13]
-- Revert to opaque notifications
-- Added Dolby Atmos support [11]
-- Added QS layout settings
-- Added data usage cycles for QS footer
-- Added toggle for AOD wallpaper
-- Added toggle for camera cutout fill + QS tile
+10-XX-2025
+- Built-in spoofing now works again with working
+  json and xml
+- Added google photos spoofing
+- Added transparent notifications
+- Added system-wide blur intensity setting
+- Added heads-up customizations
+- Added settings ui icon options
 - More source changes ...
 
 
@@ -32,6 +29,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+09-30-2025
+- September Security Patch
+- Migrated to common Samsung LiveDisplay and Touch
+  Features [12]
+- Improved blurs [13]
+- Revert to opaque notifications
+- Added Dolby Atmos support [11]
+- Added QS layout settings
+- Added data usage cycles for QS footer
+- Added toggle for AOD wallpaper
+- Added toggle for camera cutout fill + QS tile
+- More source changes ...
 
 08-21-2025
 - August Security Patch
