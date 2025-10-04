@@ -12,6 +12,7 @@ Latest Changelog:
 - Added system-wide blur intensity setting
 - Added heads-up customizations
 - Added settings ui icon options
+- Added lockscreen media cover art
 - More source changes ...
 
 
