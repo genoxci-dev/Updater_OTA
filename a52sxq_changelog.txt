@@ -4,9 +4,9 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-10-XX-2025
-- Built-in spoofing now works again with working
-  json and xml
+10-19-2025
+- Built-in spoofing works by default, for gpay
+  issues you need your own keybox
 - Added google photos spoofing
 - Added transparent notifications
 - Added system-wide blur intensity setting
