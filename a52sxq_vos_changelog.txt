@@ -4,13 +4,13 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-09-23-2025
-- September Security Patch
-- Added recents and app drawer opacity 
-  customization
-- Allow locking tasks to recents
-- Added data usage cycles for QS footer
-- More source changes ...
+10-26-2025
+- October Security Patch
+- Added support for framework boost
+- Device certified by default
+- New AOD bottom options
+- Added toggle for AOD wallpaper and camera cutout
+- A lot more source changes ...
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -24,6 +24,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+09-23-2025
+- September Security Patch
+- Added recents and app drawer opacity 
+  customization
+- Allow locking tasks to recents
+- Added data usage cycles for QS footer
+- More source changes ...
 
 08-26-2025
 - August Security Patch
