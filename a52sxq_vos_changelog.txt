@@ -4,14 +4,35 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-10-26-2025
-- October Security Patch
-- Added support for framework boost
-- Device certified by default
-- New AOD bottom options
-- Added toggle for AOD wallpaper and camera cutout
-- A lot more source changes ...
-
+12-07-2025
+- November Security Patch
+- Charging bypass and monitor temporarily 
+  unavailable
+- Added new UDFPS icon from OnePlus
+- Added toggle for recents options chips
+- Added private DNS QS tile
+- Added QS Ringer tile
+- Added per-app rotation control
+- Added dark text in App drawer toggle
+- Added Volume QS tile/slider
+- Added more GPS options
+- Added option to suppress notifications
+- Added QS tile to control animation speed
+- Added edge tap navigation for media viewer in Gallery
+- Added settings to toggle video player controls in Gallery
+- Added double-tap seek support to video player in Gallery
+- Added Toolbar settings menu in Gallery
+- Fixed no audio issue with .mkv movies in Gallery
+- Fixed Network Location crash
+- Fixed Always  on VPN toggle getting reset after reboot
+- Fixed sudden crash during doze
+- Fixed Power Button unlock tint
+- Fixed some recents swipe bugs
+- Backported some fixes from Android 16 QPR1
+- Matched QSB/search text with themed icons
+- Improved theming options
+- Improved Caffeine QS tile
+- Improved margins
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   - Special thanks to the following:
@@ -24,6 +45,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+10-26-2025
+- October Security Patch
+- Added support for framework boost
+- Device certified by default
+- New AOD bottom options
+- Added toggle for AOD wallpaper and camera cutout
+- A lot more source changes ...
 
 09-23-2025
 - September Security Patch
