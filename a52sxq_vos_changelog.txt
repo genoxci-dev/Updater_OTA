@@ -34,6 +34,7 @@ Latest Changelog:
 - Improved Caffeine QS tile
 - Improved margins
 
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   - Special thanks to the following:
     [1] P.A.N.Z. Core Team       [6] Kenway214
