@@ -18,13 +18,17 @@ Latest Changelog:
 - Added more GPS options
 - Added option to suppress notifications
 - Added QS tile to control animation speed
-- Added edge tap navigation for media viewer in Gallery
-- Added settings to toggle video player controls in Gallery
-- Added double-tap seek support to video player in Gallery
+- Added edge tap navigation for media viewer in 
+  Gallery
+- Added settings to toggle video player controls 
+  in Gallery
+- Added double-tap seek support to video player 
+  in Gallery
 - Added Toolbar settings menu in Gallery
 - Fixed no audio issue with .mkv movies in Gallery
 - Fixed Network Location crash
-- Fixed Always  on VPN toggle getting reset after reboot
+- Fixed Always  on VPN toggle getting reset after 
+  reboot
 - Fixed sudden crash during doze
 - Fixed Power Button unlock tint
 - Fixed some recents swipe bugs
