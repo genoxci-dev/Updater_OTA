@@ -4,6 +4,12 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
+12-XX-2025
+- December Security Patch
+- Updated Gamebar from Kenway214 [6]
+- Fixed aod wallpaper
+- Fixed charging bypass and speed monitoring
+
 12-07-2025
 - November Security Patch
 - Added GestureAnywhere
