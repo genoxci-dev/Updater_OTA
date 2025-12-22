@@ -6,10 +6,11 @@ Latest Changelog:
 
 12-22-2025
 - December ASB
+- OTA now available again
 - Updated Gamebar from Kenway214 [6]
 - Fixed aod wallpaper
 - Fixed charging bypass and speed monitoring
-- Updated udfps implementation. 
+- Updated udfps implementation 
 > If unreliable udfps, reenroll fp
 > If no udfps during screen-off, restart phone 
 (happened only once, first boot right after update)
