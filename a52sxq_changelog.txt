@@ -4,20 +4,15 @@ Maintainer: Genoxci
 
 Latest Changelog:
 
-12-XX-2025
-- December Security Patch
+12-22-2025
+- December ASB
 - Updated Gamebar from Kenway214 [6]
 - Fixed aod wallpaper
 - Fixed charging bypass and speed monitoring
-
-12-07-2025
-- November Security Patch
-- Added GestureAnywhere
-- Added new customizations: Gradient-color QS, new 
-  Pulse visualizers and a notification counter icon
-- Charging bypass and monitor temporarily 
-  unavailable
-- More source changes ...
+- Updated udfps implementation. 
+> If unreliable udfps, reenroll fp
+> If no udfps during screen-off, restart phone 
+(happened only once, first boot right after update)
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -34,6 +29,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous Changelogs:
+
+12-07-2025
+- November Security Patch
+- Added GestureAnywhere
+- Added new customizations: Gradient-color QS, new 
+  Pulse visualizers and a notification counter icon
+- Charging bypass and monitor temporarily 
+  unavailable
+- More source changes ...
 
 10-19-2025
 - Built-in spoofing works by default, for gpay
