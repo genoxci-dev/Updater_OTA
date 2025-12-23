@@ -5,6 +5,27 @@ Maintainer: Genoxci
 Latest Changelog:
 
 12-07-2025
+- Updated Gamebar from Kenway214 [6]
+- Fixed charging bypass and speed monitoring
+- Updated udfps implementation 
+> If unreliable udfps, reenroll fp
+> If no udfps during screen-off, restart phone 
+(happened only once, first boot right after update)
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [6] Kenway214
+    [2] Simon1511                [7] Identifier
+    [3] Arslan140                [8] alex_gailt
+    [4] P.A.N.Z.                 [9] NeiKos4962
+    [5] DaviDev985               [10] NguyenPhong
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous Changelogs:
+
+12-07-2025
 - November Security Patch
 - Charging bypass and monitor temporarily 
   unavailable
@@ -37,19 +58,6 @@ Latest Changelog:
 - Improved theming options
 - Improved Caffeine QS tile
 - Improved margins
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  - Special thanks to the following:
-    [1] P.A.N.Z. Core Team       [6] Kenway214
-    [2] Simon1511                [7] Identifier
-    [3] Arslan140                [8] alex_gailt
-    [4] P.A.N.Z.                 [9] NeiKos4962
-    [5] DaviDev985               [10] NguyenPhong
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-Previous Changelogs:
 
 10-26-2025
 - October Security Patch
