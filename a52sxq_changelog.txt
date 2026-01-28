@@ -1,8 +1,34 @@
-DERPFEST 16.0 Official | Samsung Galaxy A52s 5G
+DERPFEST 16.2 Official | Samsung Galaxy A52s 5G
 Maintainer: Genoxci
 
+Device-side Changelogs
+Latest:
 
-Latest Changelog:
+01-28-2026
+- Initial QPR2 beta release
+- January ASB
+- Updated Gamebar from Kenway214 [6]
+- Reimplemented LOS health and fastcharge
+- Fixed hotspot and logspam [5][14]
+- Some QPR0 features are still being worked on
+> If monet theme is bugged, reapply wallpaper
+(happened only once, first boot right after update)
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] P.A.N.Z. Core Team       [9] alex_gailt
+    [2] Simon1511                [10] NeiKos4962
+    [3] Arslan140                [11] NguyenPhong
+    [4] P.A.N.Z.                 [12] Bruno Martins
+    [5] DaviDev985               [13] Doze-off
+    [6] Kenway214                [14] NurKeinNeid
+    [7] T1330
+    [8] Identifier
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous:
 
 12-22-2025
 - December ASB
@@ -14,22 +40,6 @@ Latest Changelog:
 > If unreliable udfps, reenroll fp
 > If no udfps during screen-off, restart phone 
 (happened only once, first boot right after update)
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  - Special thanks to the following:
-    [1] P.A.N.Z. Core Team       [9] alex_gailt
-    [2] Simon1511                [10] NeiKos4962
-    [3] Arslan140                [11] NguyenPhong
-    [4] P.A.N.Z.                 [12] Bruno Martins
-    [5] DaviDev985               [13] Doze-off
-    [6] Kenway214
-    [7] T1330
-    [8] Identifier
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-Previous Changelogs:
 
 12-07-2025
 - November Security Patch
