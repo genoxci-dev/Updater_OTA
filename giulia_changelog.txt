@@ -1,0 +1,24 @@
+AXIONOS v2.4 Official | OnePlus 13R / Ace 5
+Maintainer: Genoxci
+
+Device-side Changelogs
+Latest:
+
+02-04-2026
+- Initial test build upload
+- Built with KSUN for testing purposes, will be
+  dropped on official release
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Special thanks to the following:
+    [1] AxionOS Team     
+    [2] Chandu     
+    [3] madmax7896
+    [4] Omar99A                
+    [5] sp_vaghela                
+    [6] KRISHNA              
+    [7] Kenway214                
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Previous:
