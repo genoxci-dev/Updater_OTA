@@ -4,15 +4,15 @@ Maintainer: Genoxci
 Device-side Changelogs
 Latest:
 
-01-28-2026
-- Initial QPR2 beta release
-- January ASB
-- Updated Gamebar from Kenway214 [6]
-- Reimplemented LOS health and fastcharge
-- Fixed hotspot and logspam [5][14]
-- Some QPR0 features are still being worked on
-> If monet theme is bugged, reapply wallpaper
-(happened only once, first boot right after update)
+02-23-2026
+- February ASB
+- Readded extra toggles in settings/system/extras
+- Fixed wifi logspam
+- Merged latest rom and kernel sources
+- More source changes ...
+
+> Separate build is made available with KSUN v3.0.1
+  + SuSFS v2.0.0 [15]
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -23,12 +23,22 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     [4] P.A.N.Z.                 [12] Bruno Martins
     [5] DaviDev985               [13] Doze-off
     [6] Kenway214                [14] NurKeinNeid
-    [7] T1330
+    [7] T1330                    [15] 0mar99
     [8] Identifier
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous:
+
+01-28-2026
+- Initial QPR2 beta release
+- January ASB
+- Updated Gamebar from Kenway214 [6]
+- Reimplemented LOS health and fastcharge
+- Fixed hotspot and logspam [5][14]
+- Some QPR0 features are still being worked on
+> If monet theme is bugged, reapply wallpaper
+(happened only once, first boot right after update)
 
 12-22-2025
 - December ASB
