@@ -5,6 +5,8 @@ Device-side Changelogs
 Latest:
 
 02-23-2026
+- External testing by: Ahmed Amr, TFG FAISAL, emm
+
 - February ASB
 - Readded extra toggles in settings/system/extras
 - Fixed wifi logspam
