@@ -4,17 +4,13 @@ Maintainer: Genoxci
 Device-side Changelogs
 Latest:
 
-02-23-2026
-- External testing by: Ahmed Amr, TFG FAISAL, emm
-
-- February ASB
-- Readded extra toggles in settings/system/extras
-- Fixed wifi logspam
-- Merged latest rom and kernel sources
+04-09-2026
+- April ASB
+- Updated Gamebar from Kenway214 [6]
+- New features in DerpFest Customizations
+- Dropped hide AOD wallpaper toggle in system/extras 
+  in preference to an existing one in AOD settings
 - More source changes ...
-
-> Separate build is made available with KSUN v3.0.1
-  + SuSFS v2.0.0 [15]
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -31,6 +27,18 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Previous:
+
+02-23-2026
+- External testing by: Ahmed Amr, TFG FAISAL, emm
+
+- February ASB
+- Readded extra toggles in settings/system/extras
+- Fixed wifi logspam
+- Merged latest rom and kernel sources
+- More source changes ...
+
+> Separate build is made available with KSUN v3.0.1
+  + SuSFS v2.0.0 [15]
 
 01-28-2026
 - Initial QPR2 beta release
